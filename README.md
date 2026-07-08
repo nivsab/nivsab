@@ -20,15 +20,29 @@
 
 ## 🧠 About Me
 
-```python
-niv = {
-    "education":  "B.Sc Computer Science @ HIT  ·  GPA 91  ·  Dean's List 🏆",
-    "currently":  "Building a product for a real client @ PLACE.IL program",
-    "interests":  ["Applied AI / NLP", "Embedded Systems", "Backend Engineering"],
-    "open_to":    "First role in AI Engineering, Embedded Dev, or Backend",
-    "superpower": "Turning complex research into working, documented software",
-}
-```
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/B.Sc_Computer_Science_%40_HIT-0d6efd?style=for-the-badge&labelColor=161b22)
+&nbsp;
+![](https://img.shields.io/badge/GPA_91_%7C_Dean's_List_%F0%9F%8F%86-d4a017?style=for-the-badge&labelColor=161b22)
+&nbsp;
+![](https://img.shields.io/badge/PLACE.IL_%7C_Building_Real_Product-238636?style=for-the-badge&labelColor=161b22)
+
+</div>
+
+<br/>
+
+> Graduating CS student who builds things that actually work —
+> from fine-tuned NLP models to bare-metal GPIO drivers.
+
+<br/>
+
+🤖 &nbsp; Deep focus on **applied AI** — LLM evaluation, synthetic data pipelines, RAG systems  
+🔧 &nbsp; Equally comfortable at the hardware level — STM32, bare-metal C++, register-level control  
+🎯 &nbsp; Actively seeking first role in **AI Engineering** &nbsp;·&nbsp; **Embedded Systems** &nbsp;·&nbsp; **Backend Dev**  
+📍 &nbsp; Israel &nbsp;·&nbsp; Open to remote / relocation  
 
 <br/>
 
