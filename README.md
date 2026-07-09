@@ -1,125 +1,163 @@
-<div align="center">
+<h1 align="center">Hi 👋 I'm Niv Saban</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=200&section=header&text=Niv%20Saban&fontSize=62&fontColor=e6edf3&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%E2%80%A2%20AI%20%26%20ML%20%E2%80%A2%20Embedded%20Systems&descSize=16&descAlignY=62&descColor=8b949e"/>
+<h3 align="center">
+Computer Science Student • AI & Systems Developer
+</h3>
 
-<br/>
+<p align="center">
+Building machine learning systems, LLM infrastructure and embedded software.
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+intelligent+systems+from+the+ground+up;Research+%E2%86%92+Real+Products;Dean's+List+%E2%80%A2+GPA+91+%E2%80%A2+B.Sc+Computer+Science;Open+to+first+role+in+AI+%2F+Embedded+%2F+Backend)](https://git.io/typing-svg)
+<p align="center">
 
-<br/>
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niv%20Saban-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niv-saban-software-development)
-&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Email-niv.saban%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:niv.saban@gmail.com)
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br/><br/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</div>
-
----
-
-## 🧠 About Me
-
-<br/>
-
-<div align="center">
-
-![](https://img.shields.io/badge/B.Sc_Computer_Science_%40_HIT-0d6efd?style=for-the-badge&labelColor=161b22)
-&nbsp;
-![](https://img.shields.io/badge/GPA_91_%7C_Dean's_List_%F0%9F%8F%86-d4a017?style=for-the-badge&labelColor=161b22)
-&nbsp;
-![](https://img.shields.io/badge/PLACE.IL_%7C_Building_Real_Product-238636?style=for-the-badge&labelColor=161b22)
-
-</div>
-
-<br/>
-
-> Graduating CS student who builds things that actually work —
-> from fine-tuned NLP models to bare-metal GPIO drivers.
-
-<br/>
-
-🤖 &nbsp; Deep focus on **applied AI** — LLM evaluation, synthetic data pipelines, RAG systems  
-🔧 &nbsp; Equally comfortable at the hardware level — STM32, bare-metal C++, register-level control  
-🎯 &nbsp; Actively seeking first role in **AI Engineering** &nbsp;·&nbsp; **Embedded Systems** &nbsp;·&nbsp; **Backend Dev**  
-📍 &nbsp; Israel &nbsp;·&nbsp; Open to remote / relocation  
-
-<br/>
+</p>
 
 ---
 
-## ⚙️ Tech Stack
+## About
 
-<div align="center">
+I'm a Computer Science student passionate about designing intelligent software systems.
 
-**Languages**
+My projects span machine learning, LLM evaluation, retrieval-augmented generation (RAG), and embedded systems, with an emphasis on building production-oriented solutions rather than academic prototypes.
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,html&theme=dark"/>
-
-<br/><br/>
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark"/>
-
-&nbsp;`HuggingFace Transformers` &nbsp;·&nbsp; `DeBERTa` &nbsp;·&nbsp; `Ollama` &nbsp;·&nbsp; `RAG` &nbsp;·&nbsp; `pgvector`
-
-<br/>
-
-**Embedded & Low-Level**
-
-`STM32F4` &nbsp;·&nbsp; `Bare-Metal C++` &nbsp;·&nbsp; `GPIO / NVIC / EXTI` &nbsp;·&nbsp; `FSM Design` &nbsp;·&nbsp; `Register Manipulation`
-
-<br/>
-
-**Tools & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,supabase&theme=dark"/>
-
-</div>
-
-<br/>
+I'm currently looking for a Software Engineering student position where I can contribute while continuing to grow as a developer.
 
 ---
 
-## 🚀 Featured Projects
+# Featured Projects
 
-<div align="center">
+## 📄 Datasheet Extraction
 
-| Project | What it does | Stack |
-|:--------|:-------------|:------|
-| [**datasheet-extraction**](https://github.com/nivsab/datasheet-extraction) | ML pipeline that extracts structured specs from PDF datasheets. Fine-tuned DeBERTa on 11K+ synthetic samples — 98.2% F1 on held-out data. | `PyTorch` · `HuggingFace` · `pdfplumber` |
-| [**CoEval**](https://github.com/nivsab/CoEval) | LLM evaluation framework where models rotate as Teacher / Student / Judge — no labeled data needed, 16 providers supported, 50% cost cut via Batch API. | `Python` · `OpenAI` · `Anthropic` |
-| [**Jack\_Skill**](https://github.com/nivsab/Jack_Skill) | AI car assistant: RAG over manufacturer PDFs, real-time parts pricing & Hebrew plate lookup — built as a Claude Code skill. | `Python` · `Supabase` · `pgvector` |
-| [**STM32 GPIO Driver**](https://github.com/nivsab/STM32-Bare-Metal-GPIO-Driver) | Interrupt-driven GPIO driver for STM32F407 — zero HAL dependencies, pure register ops, FSM logic + software debouncing. | `C++` · `Assembly` |
-| [**VirtuFirm-CI**](https://github.com/nivsab/VirtuFirm-CI) | Virtual firmware testbed: runs embedded FSM logic on PC and validates all state transitions via automated Python harness. | `C++` · `Python` |
+Machine learning pipeline for extracting structured specifications from technical PDF datasheets.
 
-</div>
+**Highlights**
 
-<br/>
+- Fine-tuned DeBERTa
+- 11K+ synthetic training samples
+- 98.2% F1 score on held-out evaluation
 
----
+**Stack**
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nivsab&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivsab&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
-
-</div>
-
-<br/>
+PyTorch • HuggingFace • pdfplumber
 
 ---
 
-<div align="center">
+## ⚖️ CoEval
 
-*"I don't just write code — I design systems that solve real problems."*
+Evaluation framework for Large Language Models using rotating Teacher / Student / Judge roles.
 
-<br/>
+Designed to evaluate models without requiring labeled datasets while reducing evaluation cost through Batch API execution.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=100&section=footer"/>
+**Highlights**
 
-</div>
+- No labeled data required
+- Supports 16 LLM providers
+- ~50% API cost reduction
+
+**Stack**
+
+Python • OpenAI • Anthropic
+
+---
+
+## 🚗 Jack Skill
+
+AI-powered automotive assistant built as a Claude Code Skill.
+
+Combines retrieval over manufacturer documentation, real-time parts pricing and Israeli license plate lookup.
+
+**Stack**
+
+Python • Supabase • pgvector
+
+---
+
+## 🔧 STM32 GPIO Driver
+
+Interrupt-driven GPIO driver for STM32F407 implemented with direct register manipulation.
+
+Features finite state machine logic and software debouncing without relying on HAL libraries.
+
+**Stack**
+
+C++ • ARM Assembly
+
+---
+
+## 🧪 VirtuFirm-CI
+
+Virtual firmware testing environment for embedded software.
+
+Runs firmware logic on a desktop environment and validates state transitions using automated Python-based test harnesses.
+
+**Stack**
+
+C++ • Python
+
+---
+
+# Technologies
+
+### Languages
+
+- Python
+- C++
+- C
+- SQL
+
+### AI / Machine Learning
+
+- PyTorch
+- HuggingFace
+- LLM Evaluation
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+
+### Backend
+
+- FastAPI
+- PostgreSQL
+- Supabase
+- pgvector
+
+### Embedded
+
+- STM32
+- ARM Cortex-M
+- Register-Level Programming
+- Interrupts
+- Finite State Machines
+
+### Tools
+
+- Git
+- Docker
+- Linux
+
+---
+
+## GitHub Stats
+
+<!-- github-readme-stats -->
+
+---
+
+## Let's Connect
+
+🌐 Portfolio
+
+💼 LinkedIn
+
+📧 Email
