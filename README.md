@@ -10,7 +10,6 @@ Low-level software, concurrent applications, and firmware verification.
 
 - **[STM32 Bare-Metal GPIO Driver](https://github.com/nivsab/STM32-Bare-Metal-GPIO-Driver)** — A C++ GPIO driver using direct register manipulation, object-oriented design, and non-blocking state machines.
 - **[Multithreaded Sensor Simulation](https://github.com/nivsab/Multithreaded-Sensor-Simulation)** — A C++17 producer-consumer simulation with a thread-safe bounded queue, sensor interfaces, and a consumer thread pool.
-- **[VirtuFirm-CI](https://github.com/nivsab/VirtuFirm-CI)** — A virtual firmware environment for simulating LED/button interactions and checking finite-state-machine behavior with Python automation.
 
 **Technologies:** C, C++, STM32, multithreading, Python.
 
