@@ -51,12 +51,6 @@ A C++17 producer-consumer simulation with a thread-safe bounded queue, sensor in
 
 `C++17` `Multithreading` `Synchronization` `Producer–Consumer`
 
-### [VirtuFirm-CI ↗](https://github.com/nivsab/VirtuFirm-CI)
-
-A virtual firmware environment for simulating LED/button interactions and checking finite-state-machine behavior with Python automation.
-
-`Firmware Simulation` `Python` `CLI` `Automated Verification`
-
 ---
 
 <a name="ai"></a>
