@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./headshot.png" alt="Portrait of Niv Saban" width="180">
+  <img src="./headshot.png" alt="Niv Saban" width="180">
 </p>
 <h1 align="center">Hi, I'm Niv Saban 👋</h1>
 
